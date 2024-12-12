@@ -1,5 +1,3 @@
-Here’s a **GitHub README** for your **Simple Encryption/Decryption Tool using Caesar Cipher**:
-
 ---
 
 # Simple Encryption/Decryption Tool using Caesar Cipher
