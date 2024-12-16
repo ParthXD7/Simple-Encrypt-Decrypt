@@ -28,6 +28,8 @@ You can either clone this repository or download the script directly. To clone t
 ```bash
 git clone https://github.com/ParthXD7/Simple-Caesar-Cipher-Encryption-Decryption.git
 cd Simple-Caesar-Cipher-Encryption-Decryption
+pip install requests beautifulsoup4
+
 ```
 
 ### Step 3: Run the Script
